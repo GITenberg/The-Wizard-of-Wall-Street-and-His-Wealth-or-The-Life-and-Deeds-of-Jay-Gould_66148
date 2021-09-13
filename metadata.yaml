@@ -1,0 +1,34 @@
+_repo: The-Wizard-of-Wall-Street-and-His-Wealth-or-The-Life-and-Deeds-of-Jay-Gould_66148
+_version: 0.0.1
+creator:
+  author:
+    agent_name: White, Trumbull
+    birthdate: 1868
+    deathdate: 1941
+    gutenberg_agent_id: '1400'
+    url: http://www.gutenberg.org/2009/agents/1400
+description: ''
+gutenberg_issued: '2021-08-26'
+identifiers:
+  gutenberg: '66148'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Businessmen -- United States -- Biography'
+- !lcsh 'Gould, Jay, 1836-1892'
+- !lcsh 'Capitalists and financiers -- United States -- Biography'
+- GITenberg
+tableOfContents: 'Jay Gould a great man -- Youth and ancestry of Jay Gould -- Gould
+  as surveyor and historian -- Gould and the tannery war -- Gould''s romantic marriage
+  and first railroad -- Gould''s assault upon Erie -- Gould''s victory and final defeat
+  in Erie -- The gold conspiracy -- Culmination of conspiracy: Black Friday -- Gould
+  and the western railway systems -- Gould and the telegraph monopoly -- Gould and
+  the Manhattan Elevated -- The life of a Wall Street king -- The king is dead --
+  Jay Gould laid to rest -- Personal characteristics of Jay Gould -- The family of
+  Jay Gould -- The great fortune and its inheritors -- Jay Gould''s relations with
+  the public -- A chapter of anecdotes.'
+title: The Wizard of Wall Street and His Wealth; or, The Life and Deeds of Jay Gould
+url: http://www.gutenberg.org/ebooks/66148
