@@ -1,5 +1,8 @@
 _repo: The-Wizard-of-Wall-Street-and-His-Wealth-or-The-Life-and-Deeds-of-Jay-Gould_66148
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66148-h/images/cover.jpg
 creator:
   author:
     agent_name: White, Trumbull
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '1400'
     url: http://www.gutenberg.org/2009/agents/1400
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66148#The-Wizard-of-Wall-Street-and-His-Wealth-or-The-Life-and-Deeds-of-Jay-Gould
 gutenberg_issued: '2021-08-26'
 identifiers:
   gutenberg: '66148'
